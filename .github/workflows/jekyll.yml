@@ -28,6 +28,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
+          submodules: false   # 或 true / recursive，根据你是否用子模块
           # If using the 'assets' git submodule from the minimal-mistakes-jekyll theme, uncomment below
           # submodules: true
           # If using the 'assets' git submodule from the al-folio theme, uncomment below
