@@ -20,5 +20,5 @@ echo "📤 推送到 GitHub..."
 git push origin main
 
 echo "✅ 部署完成！"
-echo "🌐 您的網站將在幾分鐘後在 https://rachg.github.io 上線"
+echo "🌐 您的網站將在幾分鐘後在 https://rachg.github.io/Rachel_Gui 上線"
 echo "📊 您可以在 GitHub Actions 頁面查看部署進度"
