@@ -13,14 +13,16 @@ title                    : "Rachel Gui / Personal Website"
 title_separator          : "-"
 name                     : &name "Rachel Gui"
 description              : &description "Personal academic website"
-url                      : https://rachg.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/Rachel_Gui" # the subpath of your site, e.g. "/blog"
+url                      : "https://Rachel-Gui.github.io"
+baseurl                  : "/Rachel_Gui"
 repository               : "Rachel-Gui/Rachel_Gui"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
+  github: "Rachel-Gui"
   # Biographic information
   avatar           : "profile.png"
   name             : "Rachel Gui"
