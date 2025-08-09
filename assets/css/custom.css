@@ -1,0 +1,56 @@
+/* Section spacing */
+.page__content h2 { margin-top: 2.2rem; }
+
+/* Video grid */
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 14px;
+  margin: 8px 0 18px;
+}
+.video-grid iframe,
+.video-grid video.video-thumb {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  border-radius: 12px;
+  display: block;
+  overflow: hidden;
+}
+.video-thumb {
+  transition: transform .25s ease, box-shadow .25s ease;
+}
+.video-thumb:hover {
+  transform: translateY(-2px) scale(1.02);
+  box-shadow: 0 10px 30px rgba(0,0,0,.18);
+}
+
+/* Leaflet map */
+#map {
+  width: 100%;
+  height: 460px;
+  border-radius: 14px;
+  margin: 8px 0 18px;
+}
+.leaflet-popup-content .popup img {
+  max-width: 100%;
+  border-radius: 8px;
+  margin-top: 6px;
+}
+.leaflet-container a { color: inherit; }
+
+/* Smooth anchor scroll and offset for fixed masthead */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Optional: offset headings if fixed header overlaps anchors */
+:target::before {
+  content: "";
+  display: block;
+  height: 70px; /* approximate masthead height */
+  margin-top: -70px;
+  visibility: hidden;
+}
+
+
