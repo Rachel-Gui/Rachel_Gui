@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Rachel Gui — Academic Website"
+title: "Ruichen Gui — Academic Website"
 author_profile: true
 classes: wide
 toc: true
@@ -10,25 +10,44 @@ toc_icon: "list"
 
 <a id="about"></a>
 ## About
-Hello! I'm Rachel Gui, an HCI researcher working on physiological sensing (IMU/PPG), wearables, and human–AI interaction.  
-Email: <a href="mailto:ruichen_gui@outlook.com">ruichen_gui@outlook.com</a> · Location: Seattle, WA · University of Washington
+Hello! I'm Ruichen Gui (Rachel Gui), an HCI researcher and data scientist working on physiological sensing, wearables, robotics, human–AI interaction, and computational design. I'm currently pursuing my Bachelor's degree in Data Science and Big Data Technology at Beijing Forestry University, while also holding a Bachelor's degree in Landscape Gardening.
+
+**Contact Information**  
+📧 Email: <a href="mailto:Ruichen_Gui@outlook.com">Ruichen_Gui@outlook.com</a>  
+📱 Phone: +86 188-10303-958  
+📍 Location: Beijing, China  
+🏫 University: Beijing Forestry University
+
+---
+
+<a id="education"></a>
+## Education
+**Beijing Forestry University** — Beijing, China  
+**Bachelor of Data Science and Big Data Technology**  
+Department of Artificial Intelligence | Sep 2024 - Present  
+*Selected Coursework:* Fundamentals of Java Programming, Introduction to Computers, Linux Applications, Fundamentals of Programming, Probability Theory and Mathematical Statistics, C Programming Language
+
+**Bachelor of Landscape Gardening**  
+Department of Landscape Architecture | Sep 2020 - Jul 2024  
+*Selected Coursework:* Computer Aided Design, Urban Open Space Planning and Design, Landscape Design, Representation of Design, Architectural Design, Tectonics and Structure of Building
 
 ---
 
 <a id="conferences"></a>
 ## Conferences & Talks
-- **CHI 20XX** — Oral presentation: *Title goes here*.  
-- **UIST 20XX** — Poster: *Title goes here*.  
-- **Workshop / Meetup** — *Topic here*.  
-<!-- 继续按时间倒序追加 -->
+- **CAADRIA Conference 2025** — Tokyo University, Tokyo, Japan — Research Assistant  
+- **Computational Design Academic Conference 2024** — Shanghai, China — Best Awards Winner  
+- **International Research Workshop Digital Futures** — Shanghai, China — Multi-Robot Arm Coordination  
+- **Design Competition for 2022 Chengdu Park City International Garden Season** — Chengdu, China — Team Leader
 
 ---
 
 <a id="now"></a>
 ## Now (What I'm Working On)
-- Building IMU/PPG-based interactive systems for posture analysis.  
-- Preparing applications in HCI and collaborative projects on physiological sensing.  
-- Recent events: Hackathon participation, demo recordings, and paper drafting.
+- Research Assistant in Large Model Training and Fine-Tuning at Beijing Forestry University AI Lab  
+- Conducting data analysis using LLMs to support research on embodied intelligence  
+- Exploring fine-tuning techniques to enhance LLM applications for domain-specific tasks  
+- Pursuing Bachelor's degree in Data Science and Big Data Technology
 
 ---
 
@@ -59,19 +78,25 @@ Email: <a href="mailto:ruichen_gui@outlook.com">ruichen_gui@outlook.com</a> · L
 
 <a id="publications"></a>
 ## Publications & Projects
+
 **Selected Publications**
-- A. Author, **R. Gui**, B. Coauthor. *Paper title*. Conference/Journal, 20XX. [PDF]({{ '/files/paper1.pdf' | relative_url }}) · [Code](https://github.com/yourrepo)  
+- **F. Bao, R. Gui.** *A Plant-Based Compound Essential Oil for Relieving Anxiety Application*.  
+- **T. Xu, R. Gui.** *VR-Enhanced Dance Therapy with Motion Capture: A Breakthrough Framework for Elevating Self-Esteem in Vulnerable Populations*. HCI International 2025 Conference (Accepted).
 
 **Selected Projects**
-- **ElectroFly** — IMU/PPG motion analysis + EMS feedback for running posture. [Repo](#) · [Demo Video](#)  
-- **FacePhys** — Video-based PPG measurement & community platform. [Repo](#) · [Website](#)
+- **Autonomous Aerial Robot Discrete Shell Inclined Masonry** — Drone path-planning and modular structure optimization using Grasshopper and Ubuntu  
+- **Multi-Robot Arm Coordination** — Material handling optimization with 20% accuracy improvement  
+- **Brainwave Data-Based Anxiety Relief** — EEG analysis and essential oil formula development with 30+ participants  
+- **Bamboo Pavilion Design** — Structural simulation and 3D fabrication using Rhino, Grasshopper, and Karamba
 
 ---
 
 <a id="volunteer"></a>
 ## Volunteer Work
-- STEM outreach volunteer, organizing hands-on HCI/biopotential workshops.  
-- Mentoring undergraduate students in prototyping and data visualization.
+- STEM outreach volunteer, organizing hands-on HCI/biopotential workshops  
+- Mentoring undergraduate students in prototyping and data visualization  
+- Rural education support programs, teaching English and mathematics to 80+ students  
+- Art education volunteer, incorporating VR and robotic arm technology in elementary school curriculum
 
 ---
 
@@ -81,8 +106,8 @@ Email: <a href="mailto:ruichen_gui@outlook.com">ruichen_gui@outlook.com</a> · L
 [Google Scholar](https://scholar.google.com/citations?user=PS_CX0AAAAAJ) · [GitHub](https://github.com/Rachel-Gui) · [LinkedIn](#) · [X/Twitter](#) · [YouTube](#) · [Bilibili](#)
 
 **Mentions / Coverage:**  
-- 20XX — “Title of media coverage” — Outlet name.  
-- 20XX — “Title of interview” — Outlet name.
+- 2024 — "Computational Design Academic Conference 2024 Best Awards" — Shanghai, China
+- 2024 — "International Research Workshop Digital Futures" — Shanghai, China
 
 ---
 
@@ -106,23 +131,37 @@ Email: <a href="mailto:ruichen_gui@outlook.com">ruichen_gui@outlook.com</a> · L
 // ----- Editable data: add your footsteps here -----
 const travelSpots = [
   {
-    title: "Seattle, USA",
+    title: "Tokyo, Japan",
     year: 2025,
-    lat: 47.6062, lng: -122.3321,
-    story: "Graduate research & HCI community events.",
-    image: "{{ '/images/travel/seattle.jpg' | relative_url }}"
+    lat: 35.6762, lng: 139.6503,
+    story: "CAADRIA Conference 2025 - Research presentation and collaboration.",
+    image: "{{ '/images/travel/tokyo.jpg' | relative_url }}"
   },
   {
-    title: "Vancouver, Canada",
+    title: "Shanghai, China",
     year: 2024,
-    lat: 49.2827, lng: -123.1207,
-    story: "Conference trip and project demo.",
-    image: "{{ '/images/travel/vancouver.jpg' | relative_url }}"
+    lat: 31.2304, lng: 121.4737,
+    story: "Computational Design Academic Conference 2024 - Best Awards winner.",
+    image: "{{ '/images/travel/shanghai.jpg' | relative_url }}"
+  },
+  {
+    title: "Beijing, China",
+    year: 2024,
+    lat: 39.9042, lng: 116.4074,
+    story: "Current research and studies at Beijing Forestry University.",
+    image: "{{ '/images/travel/beijing.jpg' | relative_url }}"
+  },
+  {
+    title: "Kunming, China",
+    year: 2024,
+    lat: 25.0330, lng: 102.8329,
+    story: "Work experience at Oumai Technology Company and Kunming Garden Planning Bureau.",
+    image: "{{ '/images/travel/kunming.jpg' | relative_url }}"
   }
 ];
 
 // ----- Map init -----
-const map = L.map('map', { scrollWheelZoom: false }).setView([20, 0], 2);
+const map = L.map('map', { scrollWheelZoom: false }).setView([35, 110], 4);
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   maxZoom: 18,
   attribution: '&copy; OpenStreetMap'
@@ -144,24 +183,55 @@ travelSpots.forEach(s => {
 
 <a id="affiliations"></a>
 ## Affiliations
-- **University of Washington** — Lab/Group: *Name here*  
-- **ACM SIGCHI** — Member  
-- **Other organizations** — *Role*
+- **Beijing Forestry University** — Artificial Intelligence Laboratory, National Flower Gene Research Institute  
+- **Particle Assembly Architecture Studio** — Research Assistant in Digital Fabrication  
+- **International Research Workshop Digital Futures** — Participant  
+- **CAADRIA Conference 2025** — Research Assistant
+
+---
+
+<a id="skills"></a>
+## Skills
+
+**Programming & Technical**
+- **Languages:** Python, C/C++, MATLAB, Java, SQL  
+- **Platforms:** Linux, Ubuntu, ROS, Arduino  
+- **AI/ML:** PyTorch, OpenCV, Large Language Models  
+- **GIS & Analysis:** ArcGIS, SPSS, R
+
+**Design & Creative**
+- **3D Modeling:** Rhino, Blender, Grasshopper  
+- **Game Engines:** UE5, Unity  
+- **Design Software:** Illustrator, InDesign, Photoshop, Figma, Framer  
+- **CAD & Simulation:** Karamba, Kangaroo plugin
+
+**Research & Tools**
+- **Digital Fabrication:** 3D Printing, Robotic Arm Control, KUKA  
+- **Data Analysis:** Statistical analysis, Data visualization, Survey design  
+- **Project Management:** Team leadership, Multidisciplinary collaboration, R&D funding
 
 ---
 
 <a id="extras"></a>
 ## Extras (Awards / Teaching / Press / Contact)
 **Awards**  
-- 20XX — Award name — Organization
+- 2024 — Best Awards — Computational Design Academic Conference 2024  
+- 2024 — Academic Scholarship First Prize — Beijing Forestry University Department of Landscape Architecture  
+- 2023-2024 — Merit Student (Top 5%) — Beijing Forestry University
 
 **Teaching**  
-- TA for *Course name* — Topics: data viz, IMU/PPG processing, HCI prototyping
+- TA for Aromatic Plants Cognitive Therapy for Anxiety — Topics: cognitive therapy, anxiety relief, essential oils  
+- TA for Higher Mathematics — Topics: calculus, problem-solving, exam preparation  
+- Volunteer Art Teacher — Topics: drawing, VR technology, robotic arm integration
 
 **Press**  
-- 20XX — “Article title” — Outlet
+- 2024 — "Computational Design Academic Conference 2024 Best Awards" — Shanghai, China
+
+- 2024 — "International Research Workshop Digital Futures" — Shanghai, China
 
 **Contact**  
-- Email: <a href="mailto:ruichen_gui@outlook.com">ruichen_gui@outlook.com</a>
+- Email: <a href="mailto:Ruichen_Gui@outlook.com">Ruichen_Gui@outlook.com</a>  
+- Phone: +86 188-10303-958  
+- Location: Beijing, China
 
 
