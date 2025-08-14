@@ -8,111 +8,192 @@ toc_label: "Contents"
 toc_icon: "list"
 ---
 
-<a id="about"></a>
-## About
-Hello! I'm Ruichen Gui (Rachel Gui), an HCI researcher and data scientist working on physiological sensing, wearables, robotics, human–AI interaction, and computational design. I'm currently pursuing my Bachelor's degree in Data Science and Big Data Technology at Beijing Forestry University, while also holding a Bachelor's degree in Landscape Gardening.
+# Ruichen Gui (Rachel Gui)
 
-**Contact Information**  
-📧 Email: <a href="mailto:Ruichen_Gui@outlook.com">Ruichen_Gui@outlook.com</a>  
-📱 Phone: +86 188-10303-958  
-📍 Location: Beijing, China  
-🏫 University: Beijing Forestry University
+**AI+HCI+Robotics Researcher** | **Beijing Forestry University** 🎓
 
----
-
-<a id="education"></a>
-## Education
-**Beijing Forestry University** — Beijing, China  
-**Bachelor of Data Science and Big Data Technology**  
-Department of Artificial Intelligence | Sep 2024 - Present  
-*Selected Coursework:* Fundamentals of Java Programming, Introduction to Computers, Linux Applications, Fundamentals of Programming, Probability Theory and Mathematical Statistics, C Programming Language
-
-**Bachelor of Landscape Gardening**  
-Department of Landscape Architecture | Sep 2020 - Jul 2024  
-*Selected Coursework:* Computer Aided Design, Urban Open Space Planning and Design, Landscape Design, Representation of Design, Architectural Design, Tectonics and Structure of Building
+--------------
+**Beijing, China**  
+📧 **Email**: [Ruichen_Gui@outlook.com](mailto:Ruichen_Gui@outlook.com)  
+📱 **Phone**: +86 188-10303-958  
+🔗 **Links**: [GitHub](https://github.com/Rachel-Gui) · [Google Scholar](https://scholar.google.com/citations?user=PS_CX0AAAAAJ) · [LinkedIn](#) · [ResearchGate](#)
 
 ---
 
-<a id="conferences"></a>
-## Conferences & Talks
-- **CAADRIA Conference 2025** — Tokyo University, Tokyo, Japan — Research Assistant  
-- **Computational Design Academic Conference 2024** — Shanghai, China — Best Awards Winner  
-- **International Research Workshop Digital Futures** — Shanghai, China — Multi-Robot Arm Coordination  
-- **Design Competition for 2022 Chengdu Park City International Garden Season** — Chengdu, China — Team Leader
+## 🔥 News
+
+**2025.3**: 🎉🎉 **CAADRIA Conference 2025** - Research Assistant at Tokyo University, Tokyo, Japan  
+**2024.11**: 🎉🎉 **Computational Design Academic Conference 2024** - Best Awards Winner, Shanghai, China  
+**2024.7**: 🎉🎉 **International Research Workshop Digital Futures** - Multi-Robot Arm Coordination, Shanghai, China  
+**2024.6**: 🎉🎉 **Research Assistant** at Beijing Forestry University AI Lab - Large Model Training and Fine-Tuning  
+**2024.5**: 🎉🎉 **Particle Assembly Architecture Studio** - Digital Fabrication Research Assistant  
+**2024.4**: 🎉🎉 **Oumai Technology Company** - Robotic Systems Engineer Assistant  
+**2024.3**: 🎉🎉 **Urban Data Analysis Company** - Data Analyst Assistant  
+**2023.6**: 🎉🎉 **Brainwave Data-Based Anxiety Relief** - Team Leader at National Flower Gene Research Institute  
+**2022.3**: 🎉🎉 **Chengdu Park City International Garden Season** - Team Leader, Bamboo-Based Garden Design  
 
 ---
 
-<a id="now"></a>
-## Now (What I'm Working On)
-- Research Assistant in Large Model Training and Fine-Tuning at Beijing Forestry University AI Lab  
-- Conducting data analysis using LLMs to support research on embodied intelligence  
-- Exploring fine-tuning techniques to enhance LLM applications for domain-specific tasks  
-- Pursuing Bachelor's degree in Data Science and Big Data Technology
+## 🔬 Research Experience
+
+**Artificial Intelligence Laboratory, Beijing Forestry University** | Beijing, China  
+*Research Assistant in Large Model Training and Fine-Tuning* | Dec 2024 - Present  
+• Conducted data analysis using LLMs to support research on embodied intelligence  
+• Explored fine-tuning techniques to enhance LLM applications for domain-specific tasks  
+• Collaborated with multidisciplinary teams on AI-driven research projects  
+
+**Particle Assembly Architecture Studio** | Beijing, China  
+*Research Assistant in Digital Fabrication* | Sep 2024 - Dec 2024  
+• Simulated landscape construction structures for 3D printing using Kangaroo plugin in Grasshopper  
+• Constructed full-scale models using KUKA robotic arm with advanced PLA 3D printing techniques  
+• Evaluated structural stability and optimized printing paths for complex architectural forms  
+
+**International Research Workshop Digital Futures** | Shanghai, China  
+*Participant, Multi-Robot Arm Coordination for Material Handling* | Jun 2024 - Jul 2024  
+• Developed algorithms for efficient silica sand handling with 20% accuracy improvement  
+• Planned path optimization using Grasshopper for precise robot localization  
+• Demonstrated multi-robot coordination through quartz sand stacking experiments  
+
+**National Flower Gene Research Institute, Beijing Forestry University** | Beijing, China  
+*Team Leader, Brainwave Data-Based Anxiety Relief Essential Oil Formula Development* | Jun 2023 - Jun 2024  
+• Organized multidisciplinary team of 7 members from gene research, psychology, and business  
+• Designed and tested formulas with 30+ participants including EEG brainwave analysis  
+• Secured R&D funding and evaluated impact on cognitive performance and emotional well-being  
 
 ---
 
-<a id="videos"></a>
-## Featured Videos
-**Academic Talks**
-<div class="video-grid">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_1" frameborder="0" allowfullscreen></iframe>
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_2" frameborder="0" allowfullscreen></iframe>
- </div>
+## 📝 Publications
 
-**Project Demos** (hover auto-play preview)
-<div class="video-grid">
-  <video class="video-thumb" autoplay muted loop playsinline poster="{{ '/images/cover1.jpg' | relative_url }}">
-    <source src="{{ '/videos/demo1.mp4' | relative_url }}" type="video/mp4">
-  </video>
-  <video class="video-thumb" autoplay muted loop playsinline poster="{{ '/images/cover2.jpg' | relative_url }}">
-    <source src="{{ '/videos/demo2.mp4' | relative_url }}" type="video/mp4">
-  </video>
-</div>
+**JOURNAL PUBLICATIONS**  
+*Under Review/In Preparation*
 
-**Media Interviews**
-<div class="video-grid">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID_3" frameborder="0" allowfullscreen></iframe>
-</div>
+**CONFERENCE PUBLICATIONS**  
+**HCI International 2025**  
+*VR-Enhanced Dance Therapy with Motion Capture: A Breakthrough Framework for Elevating Self-Esteem in Vulnerable Populations*  
+Tianming Xu, **Ruichen Gui**  
+*Accepted* | [Paper](#) | [Code](#)
 
----
+**Computational Design Academic Conference 2024**  
+*Autonomous Aerial Robot Discrete Shell Inclined Masonry*  
+**Ruichen Gui**  
+*Best Awards Winner* | [Paper](#) | [Code](#)
 
-<a id="publications"></a>
-## Publications & Projects
+**WORKSHOP PUBLICATIONS**  
+**International Research Workshop Digital Futures 2024**  
+*Multi-Robot Arm Coordination for Material Handling*  
+**Ruichen Gui**  
+*Participant* | [Paper](#) | [Code](#)
 
-**Selected Publications**
-- **F. Bao, R. Gui.** *A Plant-Based Compound Essential Oil for Relieving Anxiety Application*.  
-- **T. Xu, R. Gui.** *VR-Enhanced Dance Therapy with Motion Capture: A Breakthrough Framework for Elevating Self-Esteem in Vulnerable Populations*. HCI International 2025 Conference (Accepted).
-
-**Selected Projects**
-- **Autonomous Aerial Robot Discrete Shell Inclined Masonry** — Drone path-planning and modular structure optimization using Grasshopper and Ubuntu  
-- **Multi-Robot Arm Coordination** — Material handling optimization with 20% accuracy improvement  
-- **Brainwave Data-Based Anxiety Relief** — EEG analysis and essential oil formula development with 30+ participants  
-- **Bamboo Pavilion Design** — Structural simulation and 3D fabrication using Rhino, Grasshopper, and Karamba
+**RESEARCH REPORTS**  
+**National Flower Gene Research Institute 2024**  
+*A Plant-Based Compound Essential Oil for Relieving Anxiety Application*  
+Fei Bao, **Ruichen Gui**  
+*Research Report* | [Report](#)
 
 ---
 
-<a id="volunteer"></a>
-## Volunteer Work
-- STEM outreach volunteer, organizing hands-on HCI/biopotential workshops  
-- Mentoring undergraduate students in prototyping and data visualization  
-- Rural education support programs, teaching English and mathematics to 80+ students  
-- Art education volunteer, incorporating VR and robotic arm technology in elementary school curriculum
+## 🎖 Honors and Awards
+
+**2024** **Best Awards** - Computational Design Academic Conference 2024, Shanghai, China  
+**2024** **Academic Scholarship First Prize** - Beijing Forestry University Department of Landscape Architecture  
+**2023-2024** **Merit Student** - Beijing Forestry University (Top 5% of students)  
+**2022** **Design Competition Winner** - Chengdu Park City International Garden Season, Chengdu, China  
+**2021** **Academic Excellence** - Beijing Forestry University Department of Landscape Architecture  
 
 ---
 
-<a id="social"></a>
-## Social & Media
-**Profiles:**  
-[Google Scholar](https://scholar.google.com/citations?user=PS_CX0AAAAAJ) · [GitHub](https://github.com/Rachel-Gui) · [LinkedIn](#) · [X/Twitter](#) · [YouTube](#) · [Bilibili](#)
+## 📖 Education
 
-**Mentions / Coverage:**  
-- 2024 — "Computational Design Academic Conference 2024 Best Awards" — Shanghai, China
-- 2024 — "International Research Workshop Digital Futures" — Shanghai, China
+**2024.09 - Present** **Bachelor of Data Science and Big Data Technology**  
+Department of Artificial Intelligence, Beijing Forestry University, Beijing, China  
+*Selected Coursework:* Java Programming, Linux Applications, Probability Theory, C Programming, Data Structures  
+
+**2020.09 - 2024.07** **Bachelor of Landscape Gardening**  
+Department of Landscape Architecture, Beijing Forestry University, Beijing, China  
+*Selected Coursework:* Computer Aided Design, Urban Planning, Landscape Design, Architectural Design, Building Tectonics  
 
 ---
 
-<a id="travel"></a>
-## Travel Map
+## 💬 Invited Talks & Presentations
+
+**2024.11** **Computational Design Academic Conference 2024** - Shanghai, China  
+*Presentation: Autonomous Aerial Robot Discrete Shell Inclined Masonry*  
+
+**2024.07** **International Research Workshop Digital Futures** - Shanghai, China  
+*Presentation: Multi-Robot Arm Coordination for Material Handling*  
+
+**2024.06** **Beijing Forestry University AI Lab Seminar** - Beijing, China  
+*Presentation: Large Language Models in Embodied Intelligence Research*  
+
+---
+
+## 💻 Work Experience
+
+**Oumai Technology Company** | Kunming, China  
+*Engineer Assistant/Robotic Systems for Packaging Solutions* | Apr 2024 - Jul 2024  
+• Used PLC to control self-steering four-way shuttles with 8-12 sensors for real-time gap calculation  
+• Optimized path and posture control, achieving ±2mm accuracy and 10% efficiency boost  
+
+**Urban Data Analysis Company** | Online, China  
+*Data Analyst Assistant / City Data Collection and Analysis* | May 2024 - Jun 2024  
+• Collected and analyzed street view and POI data from 500+ urban locations  
+• Processed datasets exceeding 10,000 entries using Excel and SQL for urban planning insights  
+
+**Kunming Garden Planning Bureau** | Kunming, China  
+*Program Interface Designer Intern / Digital Smart Park Build* | Feb 2021 - Apr 2021  
+• Conducted preliminary surveys and data analysis using ArcGIS, SPSS, and R for 500+ data points  
+• Created visual displays and proposals based on 30+ plant species characteristics  
+
+---
+
+## 👨🏻‍🎓 Service and Leadership
+
+**2024-Present** **Research Assistant** - Beijing Forestry University AI Lab  
+**2024** **Team Leader** - Brainwave Data-Based Anxiety Relief Research Project  
+**2023-2024** **Teaching Assistant** - Aromatic Plants Cognitive Therapy for Anxiety  
+**2022-2023** **Team Leader** - Chengdu Park City International Garden Season Design  
+**2021-2022** **Volunteer Art Teacher** - Beijing Forestry University Affiliated Primary School  
+**2021** **Volunteer Teacher** - Rural Education Support Programs  
+
+---
+
+## 🛠 Skills
+
+**Programming & Technical**  
+• **Languages:** Python, C/C++, MATLAB, Java, SQL  
+• **Platforms:** Linux, Ubuntu, ROS, Arduino  
+• **AI/ML:** PyTorch, OpenCV, Large Language Models  
+• **GIS & Analysis:** ArcGIS, SPSS, R  
+
+**Design & Creative**  
+• **3D Modeling:** Rhino, Blender, Grasshopper  
+• **Game Engines:** UE5, Unity  
+• **Design Software:** Illustrator, InDesign, Photoshop, Figma, Framer  
+• **CAD & Simulation:** Karamba, Kangaroo plugin  
+
+**Research & Tools**  
+• **Digital Fabrication:** 3D Printing, Robotic Arm Control, KUKA  
+• **Data Analysis:** Statistical analysis, Data visualization, Survey design  
+• **Project Management:** Team leadership, Multidisciplinary collaboration, R&D funding  
+
+---
+
+## 🔗 Links
+
+**Research Groups:**  
+• **Artificial Intelligence Laboratory** - Beijing Forestry University  
+• **National Flower Gene Research Institute** - Beijing Forestry University  
+• **Particle Assembly Architecture Studio** - Beijing, China  
+
+**Academic Profiles:**  
+• **Google Scholar:** [Profile](https://scholar.google.com/citations?user=PS_CX0AAAAAJ)  
+• **GitHub:** [Rachel-Gui](https://github.com/Rachel-Gui)  
+• **ResearchGate:** [Profile](#)  
+
+---
+
+## 📍 Travel Map
+
 <div id="map"></div>
 
 <script
@@ -181,57 +262,12 @@ travelSpots.forEach(s => {
 
 ---
 
-<a id="affiliations"></a>
-## Affiliations
-- **Beijing Forestry University** — Artificial Intelligence Laboratory, National Flower Gene Research Institute  
-- **Particle Assembly Architecture Studio** — Research Assistant in Digital Fabrication  
-- **International Research Workshop Digital Futures** — Participant  
-- **CAADRIA Conference 2025** — Research Assistant
+## 📞 Contact
 
----
-
-<a id="skills"></a>
-## Skills
-
-**Programming & Technical**
-- **Languages:** Python, C/C++, MATLAB, Java, SQL  
-- **Platforms:** Linux, Ubuntu, ROS, Arduino  
-- **AI/ML:** PyTorch, OpenCV, Large Language Models  
-- **GIS & Analysis:** ArcGIS, SPSS, R
-
-**Design & Creative**
-- **3D Modeling:** Rhino, Blender, Grasshopper  
-- **Game Engines:** UE5, Unity  
-- **Design Software:** Illustrator, InDesign, Photoshop, Figma, Framer  
-- **CAD & Simulation:** Karamba, Kangaroo plugin
-
-**Research & Tools**
-- **Digital Fabrication:** 3D Printing, Robotic Arm Control, KUKA  
-- **Data Analysis:** Statistical analysis, Data visualization, Survey design  
-- **Project Management:** Team leadership, Multidisciplinary collaboration, R&D funding
-
----
-
-<a id="extras"></a>
-## Extras (Awards / Teaching / Press / Contact)
-**Awards**  
-- 2024 — Best Awards — Computational Design Academic Conference 2024  
-- 2024 — Academic Scholarship First Prize — Beijing Forestry University Department of Landscape Architecture  
-- 2023-2024 — Merit Student (Top 5%) — Beijing Forestry University
-
-**Teaching**  
-- TA for Aromatic Plants Cognitive Therapy for Anxiety — Topics: cognitive therapy, anxiety relief, essential oils  
-- TA for Higher Mathematics — Topics: calculus, problem-solving, exam preparation  
-- Volunteer Art Teacher — Topics: drawing, VR technology, robotic arm integration
-
-**Press**  
-- 2024 — "Computational Design Academic Conference 2024 Best Awards" — Shanghai, China
-
-- 2024 — "International Research Workshop Digital Futures" — Shanghai, China
-
-**Contact**  
-- Email: <a href="mailto:Ruichen_Gui@outlook.com">Ruichen_Gui@outlook.com</a>  
-- Phone: +86 188-10303-958  
-- Location: Beijing, China
+**Email:** [Ruichen_Gui@outlook.com](mailto:Ruichen_Gui@outlook.com)  
+**Phone:** +86 188-10303-958  
+**Location:** Beijing, China  
+**University:** Beijing Forestry University  
+**Research Areas:** AI, HCI, Robotics, Computational Design, Digital Fabrication
 
 
